@@ -1,7 +1,7 @@
 # Taster / Morse-App Tutorial
 So führt ihr in Android eine Aktion so lange aus, wie ein Button gedrückt wird. Hier wird ein Piep-Ton so lange abgespielt, wie der Button gedrückt wird. Daher eignet sich diese App auch zum Morsen.
 
-- <a href="" target="_blank" >Tutorial auf YouTube</a>
+- <a href="https://www.youtube.com/watch?v=gn_-H3mMXg4" target="_blank" >Tutorial auf YouTube</a>
 - Projekt für Android Studio
 
 ---
